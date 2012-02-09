@@ -20,7 +20,7 @@ It is *highly recommended* that you do your installation by pulling the
 current development version using git and installing the library in
 development mode:
 
-    # git clone git@github.com/rackspace/python-cloudservers
+    # git clone git://github.com/rackspace/python-cloudservers.git
     # cd python-cloudservers
     # python setup.py develop
 
