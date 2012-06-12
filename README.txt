@@ -5,6 +5,16 @@ Authors:
 Steve Steiner, ssteinerX at gmail dot com.
 Mike Mayo, mike.mayo@rackspace.com, twitter: @greenisus
 
+
+------------------------------------------------------------------------
+PLEASE NOTE: This package is deprecated. It will be replaced soon
+by a package based on the OpenStack python-novaclient library.
+Until then, please use that library for working with Rackspace
+Next Generation Cloud Servers:
+    http://github.com/openstack/python-novaclient
+------------------------------------------------------------------------
+
+
 See COPYING for details.
 
 Welcome to the Rackspace Cloud Servers Python API!
